@@ -1,0 +1,17 @@
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.csproj.AssemblyReference.cache
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.AssemblyInfoInputs.cache
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.AssemblyInfo.cs
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.csproj.CoreCompileInputs.cache
+F:\VS\Project\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\Vehicle.exe
+F:\VS\Project\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\Vehicle.deps.json
+F:\VS\Project\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\Vehicle.runtimeconfig.json
+F:\VS\Project\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\Vehicle.dll
+F:\VS\Project\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\Vehicle.pdb
+F:\VS\Project\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.csproj.CopyComplete
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.dll
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\Vehicle.dll
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.pdb
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Vehicle.genruntimeconfig.cache
+F:\VS\Project\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\Vehicle.dll

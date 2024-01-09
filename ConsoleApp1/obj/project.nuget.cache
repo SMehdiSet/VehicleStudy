@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mVnJ+eZ44pGAmE0SQox5kl33Yn+2v7lr0+Y6oA6kEn15dT2iQOiQ823GSNG9s78EWxMh5bpxeRnz21DHnzZgQ==",
+  "success": true,
+  "projectFilePath": "F:\\VS\\Project\\ConsoleApp1\\ConsoleApp1\\Vehicle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smehd\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\smehd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\smehd\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\smehd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\smehd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
